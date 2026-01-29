@@ -1,0 +1,35 @@
+Education,Python,SQL,Java,Azure,ML,Interest,Career
+Intermediate,No,No,No,No,No,Web Development,Web Developer
+Intermediate,Yes,No,No,No,No,Data,Junior Data Analyst
+Intermediate,No,No,Yes,No,No,Software Development,Junior Software Engineer
+Intermediate,Yes,No,Yes,No,No,Web Development,Web Developer
+Intermediate,No,Yes,No,No,No,Cyber Security,Cyber Security Trainee
+Diploma,No,No,No,No,No,Web Development,Web Developer
+Diploma,Yes,No,Yes,No,No,Software Development,Junior Software Engineer
+Diploma,Yes,Yes,No,No,No,Data,Junior Data Analyst
+Diploma,No,No,Yes,No,No,Software Development,Software Engineer
+Diploma,No,Yes,Yes,No,No,Cyber Security,Cyber Security Analyst
+Degree,Yes,Yes,No,No,No,Data,Data Analyst
+Degree,Yes,No,Yes,No,No,Web Development,Web Developer
+Degree,No,No,Yes,No,No,Software Development,Software Engineer
+Degree,Yes,Yes,Yes,No,No,Data,Business Analyst
+Degree,Yes,Yes,Yes,No,No,Cyber Security,Security Analyst
+BTech,Yes,Yes,Yes,No,Yes,Artificial Intelligence,Machine Learning Engineer
+BTech,Yes,Yes,No,No,No,Data,Data Analyst
+BTech,Yes,No,Yes,No,Yes,Artificial Intelligence,AI Engineer
+BTech,No,No,Yes,No,No,Web Development,Web Developer
+BTech,No,No,Yes,No,No,Software Development,Software Engineer
+BTech,Yes,Yes,Yes,Yes,No,Cloud Computing,Cloud Engineer
+BTech,Yes,Yes,Yes,No,No,Cyber Security,Cyber Security Engineer
+MCA,Yes,Yes,Yes,No,Yes,Artificial Intelligence,Machine Learning Engineer
+MCA,Yes,Yes,No,No,No,Data,Data Analyst
+MCA,Yes,No,Yes,No,No,Web Development,Web Developer
+MCA,No,No,Yes,No,No,Software Development,Software Engineer
+MCA,Yes,Yes,Yes,Yes,No,Cloud Computing,Cloud Engineer
+MCA,Yes,Yes,Yes,No,Yes,Cyber Security,Cyber Security Specialist
+MSc,Yes,Yes,No,No,Yes,Artificial Intelligence,AI Engineer
+MSc,Yes,Yes,No,No,No,Data,Data Analyst
+MSc,Yes,No,Yes,No,No,Software Development,Software Engineer
+MSc,No,No,Yes,No,No,Web Development,Web Developer
+MSc,Yes,Yes,Yes,Yes,No,Cloud Computing,Cloud Engineer
+MSc,Yes,Yes,Yes,No,Yes,Cyber Security,Cyber Security Analyst
