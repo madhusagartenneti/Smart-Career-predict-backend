@@ -1,30 +1,6 @@
-import pickle
-import pandas as pd
-
-with open("model.pkl", "rb") as f:
-    data = pickle.load(f)
-    model = data["model"]
-    encoders = data["encoders"]
-    feature_order = data.get("features")  # optional but best
-
-def predict_career(input_data):
-    # Convert input to DataFrame
-    df = pd.DataFrame([input_data])
-
-    # Encode categorical fields safely
-    for col in ["Education", "Interest"]:
-        encoder = encoders[col]
-        if df[col][0] not in encoder.classes_:
-            raise ValueError(f"Invalid {col}: {df[col][0]}")
-        df[col] = encoder.transform(df[col])
-
-    # Ensure column order matches training
-    if feature_order:
-        df = df[feature_order]
-
-    # Predict
-    pred = model.predict(df)[0]
-
-    # Decode output
-    career = encoders["Career"].inverse_transform([pred])[0]
-    return career
+flask
+flask-cors
+PyJWT
+pandas
+scikit-learn
+gunicorn
